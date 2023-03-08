@@ -1,6 +1,6 @@
 # Create MERN App
 
-This project will allow you to create a full mern app with the power of one command
+This is the MERN App. You can follow the instructions below to run the boilerplate
 
 
 ## Setup
